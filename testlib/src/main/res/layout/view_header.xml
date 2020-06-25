@@ -7,11 +7,11 @@
     android:background="@android:color/holo_blue_bright"
     android:orientation="vertical"
    >
-<com.csnt.ui.view.single.statusBar.StatusBarHeightView
+<com.csnt.testlib.statusBar.StatusBarHeightView
     android:id="@+id/status_bar"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content">
-</com.csnt.ui.view.single.statusBar.StatusBarHeightView>
+</com.csnt.testlib.statusBar.StatusBarHeightView>
     <RelativeLayout
         android:layout_weight="1"
         android:layout_width="match_parent"
